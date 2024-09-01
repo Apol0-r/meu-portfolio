@@ -1,19 +1,17 @@
 # Ricardo Bona
-Desenvolvedor em Formação
+Engenheiro da Computação em formação.
+Undergraduate Student in Computer Engineering.
 
 ## Sobre Mim
-[Seu texto aqui]
+Olá, me chamo Ricardo e estou cursando Eng. da Computação na UFES. Atualmente estou me dedicando a evoluir e aprender mais e mais acerca de programação e suas aplicações.
 
 ## Projetos
-### Projeto 1
-* **Descrição:** [Descrição detalhada]
-* **Tecnologias:** Python, Django
-* **Link:** https://github.com/seuusuario/projeto1
+### Em falta...
 
 ## Habilidades
-* **Linguagens:** Python, JavaScript
-* **Ferramentas:** GitHub, Figma
+* **Linguagens:** Python
+* **Ferramentas:** GitHub, VS Code
 
 ## Contato
-* **E-mail:** cadu.nunes@email.com
-* **LinkedIn:** https://www.linkedin.com/in/cadu-nunes
+* **E-mail:** ricardoabbona@gmail.com
+
